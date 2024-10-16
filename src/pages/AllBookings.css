@@ -1,0 +1,25 @@
+.all-bookings {
+    padding: 20px;
+  }
+  
+  .filters {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .booking-list {
+    margin-top: 20px;
+  }
+  
+  .booking-item {
+    margin-bottom: 10px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .booking-item strong {
+    color: #333;
+  }
+  

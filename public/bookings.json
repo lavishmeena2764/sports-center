@@ -1,0 +1,33 @@
+{
+    "bookings": [
+      {
+        "center": "Indiranagar",
+        "sport": "Badminton",
+        "court": "Badminton Court 1",
+        "date": "2024-10-16",
+        "timeSlot": "07:00-08:00"
+      },
+      {
+        "center": "Koramangala",
+        "sport": "Squash",
+        "court": "Squash Court 2",
+        "date": "2024-10-21",
+        "timeSlot": "18:00-19:00"
+      },
+      {
+        "center": "Indiranagar",
+        "sport": "Tennis",
+        "court": "Tennis Court 1",
+        "date": "2024-10-22",
+        "timeSlot": "08:00-09:00"
+      },
+      {
+        "center": "Koramangala",
+        "sport": "Badminton",
+        "court": "Badminton Court 2",
+        "date": "2024-10-23",
+        "timeSlot": "19:00-20:00"
+      }
+    ]
+  }
+  
